@@ -3,6 +3,9 @@
 ## Requisitos
 1. Requisitos Funcionais:
 
+    - Autenticação e Autorização: 
+    Usuários devem poder se registrar, fazer login e recuperar a senha.
+
     - Design Responsivo:
     O site deve ser responsivo e funcionar em diferentes dispositivos e tamanhos de tela (desktops, tablets, smartphones).
 
@@ -43,7 +46,7 @@
 
  ## Tarefas
 
- - [ ] Implementar o endpoint para criar usuários
+ - [ ] Criar páginas de login, cadastro e recuperação de senha.
  - [ ] Implementar a verificação do perfil do usuário em todos os endpoints
  - [ ] Limitar o acesso ao endpoint de criar usuários
  - [ ] Criar tela para adicionar novo usuário
