@@ -46,7 +46,12 @@
 
  ## Tarefas
 
- - [ ] Criar páginas de login, cadastro e recuperação de senha.
- - [ ] Implementar a verificação do perfil do usuário em todos os endpoints
- - [ ] Limitar o acesso ao endpoint de criar usuários
- - [ ] Criar tela para adicionar novo usuário
+ - [ ] Criar páginas de login, cadastro e recuperação de senha;
+ - [ ] Implementar o @keyframes no css;
+ - [ ] Criar uma nav ou menu hambúrguer(mobile) para a divisão dos conteúdos;
+ - [ ] Fazer uma barra de pesquisa;
+ - [ ] Criação das páginas da nav com design intuitivo;
+ - [ ] Criar quizzes, jogo interativo sobre a cultura brasileira;
+ - [ ] Criar o mapa com museus;
+ - [ ] Criar o calendário de eventos;
+ - [ ] Criar a linha do tempo sobre as escolas literárias.
